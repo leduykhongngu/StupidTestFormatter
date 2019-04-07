@@ -9,7 +9,7 @@ Code mình có dùng windows API nên chỉ chạy được trên windows.
 
 Mình vừa cập nhật thêm cho tools để nó bớt "stupid" đi một tẹo, một số tính năng như sau:
 ### Tự động nhận những file có đuôi phổ biến
-Chẳng hạn như 'inp','in','out','ans','ok','output','a'. Với những đuôi khác có thể thêm bằng parameters (xem sau đây)
+Chẳng hạn như 'inp', 'in', 'out', 'ans', 'ok', 'output', 'a'. Với những đuôi khác có thể thêm bằng parameters (xem sau đây)
 
 ### Nhận parameters từ command line
 **-i x**: thay vì nhập từ console thì sẽ nhập từ file "x" (trong file x cần chứa 2 hàng, hàng đầu là đường dẫn tới thư mục chứa test, hàng thứ 2 là tên bài, xem input.example để hiểu thêm)
