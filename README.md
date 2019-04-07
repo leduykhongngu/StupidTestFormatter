@@ -9,7 +9,6 @@ Code mình có dùng windows API nên chỉ chạy được trên windows.
 
 Mình vừa cập nhật thêm cho tools để nó bớt "stupid" đi một tẹo, một số tính năng như sau:
 ### Tự động nhận những file có đuôi phổ biến
-
 Chẳng hạn như 'inp','in','out','ans','ok','output','a'. Với những đuôi khác có thể thêm bằng parameters (xem sau đây)
 
 ### Nhận parameters từ command line
@@ -32,6 +31,6 @@ Có 2 các dùng
 1. Dùng nhập xuất console như cũ
 2. Dùng command line và truyền parameters vào (ví dụ như: StupidTestFormatter.exe -n canoc -l D:\nani -o logs.txt thì chương trình sẽ nhận vào tên bài là "canoc", đường dẫn là "D:\nani", ghi logs ra file "logs.txt")
 
-p/s: Thật ra mình chỉ định dừng ở cách 1, nhưng trong lúc làm vài thứ thì mình cần cách 2 để thuận tiện cho việc viết những tools sau hơn, chẳng hạn như đổi rất nhiều bộ test bằng vài dòng parameters thay vì gõ lại nhiều lần. 
+P/s: Thật ra mình chỉ định dừng ở cách 1, nhưng trong lúc làm vài thứ thì mình cần cách 2 để thuận tiện cho việc viết những tools sau hơn, chẳng hạn như đổi rất nhiều bộ test bằng vài dòng parameters thay vì gõ lại nhiều lần. 
 
 
